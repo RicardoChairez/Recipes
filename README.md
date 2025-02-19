@@ -1,6 +1,3 @@
-# Recipes
-Take home test for Fetch apprenticeship
-
 # PLEASE READ
 I built this take home test on top of the previous take home I completed for Fetch a few months ago so there is some code that is recycled.
 
