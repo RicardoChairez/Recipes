@@ -3,7 +3,7 @@ I built this take home test on top of the previous take home I completed for Fet
 
 Also please understand that I put a lot of time and effort into these take home tests and I understand that I might not be selected for next round interviews, but I would really deeply appreciate it if I could get some kind of feedback.
 
-Thank you
+Thank you.
 
 
 ### Summary: Include screen shots or a video of your app highlighting its features
